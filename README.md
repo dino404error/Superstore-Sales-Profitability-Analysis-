@@ -39,13 +39,13 @@ The goal is to demonstrate practical data analysis, SQL querying, KPI calculatio
 
 ## Dashboard Preview
 
-Add a screenshot of the completed dashboard to the `dashboard/` folder and embed it here:
 
-![Superstore Sales & Profitability Dashboard](dashboard/superstore_dashboard.png)
+
+
 
 ## Project Structure
 
-```text
+
 superstore-sales-profitability-analysis/
 ├── README.md
 ├── sql/
@@ -57,7 +57,7 @@ superstore-sales-profitability-analysis/
 │   └── superstore_dashboard.png
 └── docs/
     └── business_questions.md
-```
+
 
 ## Analysis Approach
 
@@ -75,7 +75,6 @@ Add 3–5 findings here after validating them against your actual SQL results an
 
 1. Review the SQL scripts in the `sql/` folder.
 2. Open the dashboard screenshot in the `dashboard/` folder.
-3. If a shareable Power BI report or walkthrough is available, add its link here.
 
 ## Limitations
 
