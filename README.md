@@ -39,8 +39,7 @@ The goal is to demonstrate practical data analysis, SQL querying, KPI calculatio
 
 ## Dashboard Preview
 
-
-
+https://github.com/dino404error/Superstore-Sales-Profitability-Analysis-/blob/main/dashboard.png
 
 
 ## Project Structure
